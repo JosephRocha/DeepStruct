@@ -18,6 +18,8 @@ shown to produce good results for natural language processing.
 We aim to leverage this technology to push the state of the art
 closer to the theoretical accuracy limit of 88-90%.
 
+![DeepStruct Architecture](https://raw.githubusercontent.com/JosephRocha/DeepStruct/master/images/Figure2.png)
+
 
 Recurrent Neural Networks (RNN) have been successfully
 used for text classification in recent years. Since protein
